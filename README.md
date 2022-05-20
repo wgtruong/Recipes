@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipes
 
 This project demonstrates my ability to write basic HTML functions
 
